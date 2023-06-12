@@ -7,12 +7,6 @@
     console.log("Length is :",length);
 
     console.log("--------------------------------------------");
-    
-    console.log(string) 
-    var length = string.length
-    console.log("Length is :",length); 
-
-    console.log("--------------------------------------------");
 
     var trim = string.trim()
     console.log(trim);
