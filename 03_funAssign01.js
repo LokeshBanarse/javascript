@@ -19,16 +19,16 @@ personalDetails("Lokesh","Banarse","DCPE HVPM Amravati");
 
 console.log("-----------------------------------------------------");
 
-function swapValuesDude(arg1, arg2) {
+function swapValues(arg1, arg2) {
     console.log("Before swap:", arg1,arg2);
     let temp = arg1;
     arg1 = arg2;
     arg2 = temp;
     console.log("After swap:", arg1,arg2);
   }
-  swapValuesDude("Virat", "Anushka");
+  swapValues("Virat", "Anushka");
 console.log("---------------");
-  swapValuesDude(1000, 2000);
+  swapValues(1000, 2000);
 
  console.log("-----------------------------------------------------");
 
